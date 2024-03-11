@@ -15,6 +15,7 @@ Works for Firefox and Chrome.
 1. Install npm
 1. Clone this Repository
 1. Run "npm install"
+1. Run "npm audit fix"
 1. Run "npm run webpack"
 1. Load Extention to Google Chrome as unpacked.
 
